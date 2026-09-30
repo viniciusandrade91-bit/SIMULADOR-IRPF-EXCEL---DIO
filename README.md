@@ -16,4 +16,4 @@ Ferramenta desenvolvida como parte dos desafios práticos da **DIO**, com o obje
 * Hiperlinks internos para navegação dinâmica entre abas
 
 ---
-Feito com 💜 por [Seu Nome] no desafio da DIO.
+Feito com 💜 por Vinicius no desafio da DIO.
